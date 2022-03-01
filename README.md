@@ -1,7 +1,6 @@
 <div align="center">
 <h1>Hi there, I'm Damien ! 👋 </h1>
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
- 
+<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" /> 
  <h2>About me, myself and I : :grey_question: </h2>
  <br>
 <h3>- I'm a student at the computer science IUT of Toulouse, I am in first year so I am still learning the basics. :brain: </h3>

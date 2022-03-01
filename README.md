@@ -1,7 +1,8 @@
 <div align="center">
 <h1>Hi there, I'm Damien ! 👋 </h1>
-<iframe src="https://giphy.com/embed/11KzOet1ElBDz2" width="480" height="258" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/eating-cowboy-bebop-11KzOet1ElBDz2">via GIPHY</a></p>
-<h2>About me, myself and I : :grey_question: </h2>
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+ 
+ <h2>About me, myself and I : :grey_question: </h2>
  <br>
 <h3>- I'm a student at the computer science IUT of Toulouse, I am in first year so I am still learning the basics. :brain: </h3>
  <br>

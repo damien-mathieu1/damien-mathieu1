@@ -15,7 +15,7 @@
 <img  alt="MySQL" width="80px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" style="padding-right:10px;"/>
 <img  alt="Bash" width="80px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" style="padding-right:10px;"/>
 <img  alt="Python" width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"  style="padding-right:10px;"/>
-<img alt="VueJs3" width"80px" src"[https://img.icons8.com/color/480/vue-js.png](https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg)" style="padding-right:10px;"/>
+<img alt="VueJs3" width"80px" src"https://img.icons8.com/color/480/vue-js.png](https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" style="padding-right:10px;"/>
 
 <h3> See you space cowboy ✨ </h3>
 </div>

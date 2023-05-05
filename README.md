@@ -7,8 +7,13 @@
  <br>
 <h3>- I am a sport enjoyer :athletic_shoe: and I am also a big fan of cowboy bebop ! 🤠 <h3>
  <br>
+<details>
+ <p align="center">
+           <img src="https://wakatime.com/share/@b21fb822-1b1e-4a56-b3ac-d647f03795fd/03188d8b-82a3-40bb-8a5b-d09f80793574.svg"/>
+ </p>
 
- <figure><embed src="https://wakatime.com/share/@b21fb822-1b1e-4a56-b3ac-d647f03795fd/03188d8b-82a3-40bb-8a5b-d09f80793574.svg"></embed></figure>
+<details/>
+ 
  
  <!---
 <h2>What about my languages ?</h2>

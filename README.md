@@ -8,6 +8,19 @@
 <h3>- I am a sport enjoyer :athletic_shoe: and I am also a big fan of cowboy bebop ! 🤠 <h3>
  <br>
 
+<!--START_SECTION:waka-->
+ SHOW_LINES_OF_CODE
+ SHOW_TOTAL_CODE_TIME
+ SHOW_PROFILE_VIEWS
+ SHOW_LANGUAGE
+ SHOW_OS
+ SHOW_TIMEZONE
+ SHOW_EDITORS
+ SHOW_SHORT_INFO
+<!--END_SECTION:waka-->
+ 
+ 
+ <!---
 <h2>What about my languages ?</h2>
 <img  alt="HTML5" width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"  style="padding-right:10px;" />
 <img  alt="CSS3" width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" style="padding-right:10px;" />
@@ -15,8 +28,9 @@
 <img  alt="MySQL" width="80px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" style="padding-right:10px;"/>
 <img  alt="Bash" width="80px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" style="padding-right:10px;"/>
 <img  alt="Python" width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"  style="padding-right:10px;"/>
-
+-->
 <h3> See you space cowboy ✨ </h3>
+
 </div>
 
 

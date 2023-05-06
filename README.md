@@ -9,9 +9,11 @@
  <br>
 <details>
  <p align="center">
-           <img src="https://wakatime.com/share/@b21fb822-1b1e-4a56-b3ac-d647f03795fd/03188d8b-82a3-40bb-8a5b-d09f80793574.svg"/>
+           <img src="https://wakatime.com/share/@b21fb822-1b1e-4a56-b3ac-d647f03795fd/3d8fc332-54a6-4d29-9469-965955d6e018.svg"/>
  </p>
-
+ <p align="center">
+  <img src="https://wakatime.com/share/@b21fb822-1b1e-4a56-b3ac-d647f03795fd/5d7b153c-4137-40c1-8270-25e516f9619c.svg"/>
+ </p>
 <details/>
  
  

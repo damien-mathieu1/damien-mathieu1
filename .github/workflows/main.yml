@@ -1,16 +1,19 @@
 name: Waka Readme
 
 on:
+  workflow_dispatch: # for manual workflow trigger
   schedule:
-    # Runs at 12am IST
-    - cron: '30 18 * * *'
-  workflow_dispatch:
+    - cron: "0 0 * * *" # runs at every 12AM UTC
+
 jobs:
   update-readme:
-    name: Update Readme with Metrics
+    name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
     steps:
-      - uses: damien-mathieu1/damien-mathieu1@main
+      - uses: athul/waka-readme@master
         with:
-          WAKATIME_API_KEY: ${{ secrets.waka_a5d3585e-84d7-41bd-b572-0ca3af0ab895 }}
-          GH_TOKEN: ${{ secrets.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 }}
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          # following flags are required, only if this is not on
+          # profile readme, remove the leading `#` to use them
+          #GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          #REPOSITORY: <gh_username/gh_username>

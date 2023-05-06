@@ -8,6 +8,8 @@
 <h3>- I am a sport enjoyer :athletic_shoe: and I am also a big fan of cowboy bebop ! 🤠 <h3>
  <br>
  
+  <h2>Want to know more about my languages ?</h2>
+
  <!--START_SECTION:waka-->
 
 ```text

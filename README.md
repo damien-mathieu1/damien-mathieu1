@@ -7,25 +7,20 @@
  <br>
 <h3>- I am a sport enjoyer :athletic_shoe: and I am also a big fan of cowboy bebop ! 🤠 <h3>
  <br>
-<details>
+ 
+ <!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+ 
+ 
+ <!--
  <p align="center">
            <img src="https://wakatime.com/share/@b21fb822-1b1e-4a56-b3ac-d647f03795fd/3d8fc332-54a6-4d29-9469-965955d6e018.svg"/>
  </p>
  <p align="center">
   <img src="https://wakatime.com/share/@b21fb822-1b1e-4a56-b3ac-d647f03795fd/5d7b153c-4137-40c1-8270-25e516f9619c.svg"/>
  </p>
-<details/>
+ -->
  
- 
- <!---
-<h2>What about my languages ?</h2>
-<img  alt="HTML5" width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"  style="padding-right:10px;" />
-<img  alt="CSS3" width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" style="padding-right:10px;" />
-<img  alt="Java" width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" style="padding-right:10px;" />
-<img  alt="MySQL" width="80px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" style="padding-right:10px;"/>
-<img  alt="Bash" width="80px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" style="padding-right:10px;"/>
-<img  alt="Python" width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"  style="padding-right:10px;"/>
--->
 <h3> See you space cowboy ✨ </h3>
 
 </div>

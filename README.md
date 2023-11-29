@@ -29,7 +29,7 @@ Bash             2 hrs 58 mins   -------------------------   00.85 %
   <img src="https://wakatime.com/share/@b21fb822-1b1e-4a56-b3ac-d647f03795fd/5d7b153c-4137-40c1-8270-25e516f9619c.svg"/>
  </p>
  -->
- <img src="https://media.giphy.com/media/11KzOet1ElBDz2/giphy.gif" width="480" height="258" /> 
+ <img align="center" src="https://media.giphy.com/media/11KzOet1ElBDz2/giphy.gif" width="480" height="258" /> 
 
 See you space cowboy ✨ 
 

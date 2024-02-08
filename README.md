@@ -1,11 +1,8 @@
-[![Typing Animation Displays My Roles](https://readme-typing-svg.herokuapp.com?color=%FFFFFF&lines=Hello+I'm+Damien+Roy;Welcome+to+my+Github+profile!;)](https://git.io/typing-svg)
+[![Typing Animation Displays My Roles](https://readme-typing-svg.herokuapp.com?color=%FFFFFF&lines=Hello+I'm+Damien+MATHIEU;Welcome+to+my+Github+profile!;)](https://git.io/typing-svg)
 
- <div style="display: flex; width: 100%; justify-content:center;">
-   <img align="center" src="https://media.giphy.com/media/11KzOet1ElBDz2/giphy.gif" width="480" height="258" /> 
-
- </div>
-
-See you space cowboy ✨ 
+ <p align="center">
+     <img align="center" src="https://media.giphy.com/media/11KzOet1ElBDz2/giphy.gif" width="480" height="258" /> 
+ </p>
 
  <!--START_SECTION:waka-->
 
@@ -57,6 +54,10 @@ PHP              4 hrs 52 mins   -------------------------   01.27 %
 <br />
 <!-- Contact Section -->
 
+---
+
+## Contact
+
 <p align="center">
 <a href="https://www.linkedin.com/in/damien-mathieu-a70348241/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="my linkedin account" />
@@ -66,7 +67,10 @@ PHP              4 hrs 52 mins   -------------------------   01.27 %
 </a>
 </p>
 
+---
+
 <p align="center"><b>Thank You for visiting my profile 🙏</b></p>
+<p align="center">See you space cowboy ✨ </p>
 
 ---
 

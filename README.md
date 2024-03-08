@@ -7,7 +7,7 @@
  <!--START_SECTION:waka-->
 
 ```txt
-From: 02 May 2023 - To: 05 March 2024
+From: 02 May 2023 - To: 06 March 2024
 
 Total Time: 452 hrs 7 mins
 
@@ -20,7 +20,7 @@ Vue.js           11 hrs 47 mins  >------------------------   02.61 %
 Bash             7 hrs 16 mins   -------------------------   01.61 %
 C                5 hrs 13 mins   -------------------------   01.15 %
 CSS              5 hrs 6 mins    -------------------------   01.13 %
-HTML             4 hrs 52 mins   -------------------------   01.08 %
+HTML             4 hrs 53 mins   -------------------------   01.08 %
 ```
 
 <!--END_SECTION:waka-->

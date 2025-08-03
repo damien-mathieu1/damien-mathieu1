@@ -7,20 +7,20 @@
  <!--START_SECTION:waka-->
 
 ```txt
-From: 02 May 2023 - To: 31 July 2025
+From: 02 May 2023 - To: 01 August 2025
 
-Total Time: 1,393 hrs 48 mins
+Total Time: 1,397 hrs 46 mins
 
-TypeScript            889 hrs 17 mins >>>>>>>>>>>>>>>>---------   63.80 %
-YAML                  104 hrs 17 mins >>-----------------------   07.48 %
-JavaScript            72 hrs 1 min    >------------------------   05.17 %
-Python                58 hrs 52 mins  >------------------------   04.22 %
-JSON                  52 hrs 18 mins  >------------------------   03.75 %
-Vue.js                34 hrs 23 mins  >------------------------   02.47 %
-Rust                  28 hrs 31 mins  >------------------------   02.05 %
-Bash                  19 hrs 45 mins  -------------------------   01.42 %
+TypeScript            889 hrs 38 mins >>>>>>>>>>>>>>>>---------   63.65 %
+YAML                  104 hrs 33 mins >>-----------------------   07.48 %
+JavaScript            72 hrs 3 mins   >------------------------   05.16 %
+Python                58 hrs 52 mins  >------------------------   04.21 %
+JSON                  52 hrs 27 mins  >------------------------   03.75 %
+Vue.js                34 hrs 23 mins  >------------------------   02.46 %
+Rust                  28 hrs 31 mins  >------------------------   02.04 %
+Bash                  19 hrs 46 mins  -------------------------   01.41 %
 HTML                  18 hrs 42 mins  -------------------------   01.34 %
-CSV                   14 hrs 40 mins  -------------------------   01.05 %
+Terraform             15 hrs 20 mins  -------------------------   01.10 %
 ```
 
 <!--END_SECTION:waka-->

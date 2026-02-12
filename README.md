@@ -7,12 +7,12 @@
  <!--START_SECTION:waka-->
 
 ```txt
-From: 02 May 2023 - To: 09 February 2026
+From: 02 May 2023 - To: 10 February 2026
 
-Total Time: 1,618 hrs 44 mins
+Total Time: 1,619 hrs 42 mins
 
-TypeScript                 986 hrs 2 mins  >>>>>>>>>>>>>>>----------   60.91 %
-YAML                       130 hrs 22 mins >>-----------------------   08.05 %
+TypeScript                 986 hrs 2 mins  >>>>>>>>>>>>>>>----------   60.88 %
+YAML                       131 hrs 9 mins  >>-----------------------   08.10 %
 JavaScript                 77 hrs 13 mins  >------------------------   04.77 %
 Python                     71 hrs 37 mins  >------------------------   04.42 %
 JSON                       70 hrs 43 mins  >------------------------   04.37 %
@@ -20,7 +20,7 @@ Terraform                  34 hrs 30 mins  >------------------------   02.13 %
 Vue.js                     34 hrs 25 mins  >------------------------   02.13 %
 Rust                       31 hrs 11 mins  -------------------------   01.93 %
 Bash                       23 hrs 38 mins  -------------------------   01.46 %
-Markdown                   22 hrs 41 mins  -------------------------   01.40 %
+Markdown                   22 hrs 50 mins  -------------------------   01.41 %
 ```
 
 <!--END_SECTION:waka-->

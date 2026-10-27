@@ -1,80 +1,27 @@
-[![Typing Animation Displays My Roles](https://readme-typing-svg.herokuapp.com?color=%FFFFFF&lines=Hello+I'm+Damien+MATHIEU;Welcome+to+my+Github+profile!;)](https://git.io/typing-svg)
+# Damien Mathieu
 
- <p align="center">
-     <img align="center" src="https://media.giphy.com/media/11KzOet1ElBDz2/giphy.gif" width="480" height="258" /> 
- </p>
+DevOps engineer based in Montpellier, France. Working at [anaba](https://anaba.fr), building side projects and contributing to open source in Rust and TypeScript.
 
- <!--START_SECTION:waka-->
+- 💼 DevOps engineer @ anaba
+- 🦀 Currently deep in Rust (TUIs, systems tooling)
+- 📫 damien.mathieu.pro@gmail.com
 
-```txt
-From: 02 May 2023 - To: 25 October 2026
+## Open source
 
-Total Time: 1,791 hrs 25 mins
+| Project | Description |
+|---|---|
+| [db9s](https://github.com/damien-mathieu1/db9s) | Database TUI, Rust |
+| [monkeyread](https://github.com/damien-mathieu1/monkeyread) | RSVP speed reader, same look & feel as monkeytype |
+| [finExtract](https://github.com/damien-mathieu1/finExtract) | Pulls financial statements from SEC/EDINET filings, normalizes XBRL into clean CSV/Excel |
 
-TypeScript                 1,028 hrs 35 mins     >>>>>>>>>>>>>>-----------   57.42 %
-YAML                       176 hrs 48 mins       >>-----------------------   09.87 %
-JavaScript                 79 hrs 18 mins        >------------------------   04.43 %
-JSON                       78 hrs 45 mins        >------------------------   04.40 %
-Python                     71 hrs 49 mins        >------------------------   04.01 %
-Terraform                  43 hrs 45 mins        >------------------------   02.44 %
-Markdown                   40 hrs 19 mins        >------------------------   02.25 %
-Rust                       36 hrs 21 mins        >------------------------   02.03 %
-Vue.js                     34 hrs 25 mins        -------------------------   01.92 %
-Bash                       32 hrs 16 mins        -------------------------   01.80 %
-```
+**Contributions:** [chess-tui](https://github.com/thomas-mauran/chess-tui), [rusty-docker-compose](https://github.com/damien-mathieu1/rusty-docker-compose)
 
-<!--END_SECTION:waka-->
- 
- 
- <!--
- <p align="center">
-           <img src="https://wakatime.com/share/@b21fb822-1b1e-4a56-b3ac-d647f03795fd/3d8fc332-54a6-4d29-9469-965955d6e018.svg"/>
- </p>
- <p align="center">
-  <img src="https://wakatime.com/share/@b21fb822-1b1e-4a56-b3ac-d647f03795fd/5d7b153c-4137-40c1-8270-25e516f9619c.svg"/>
- </p>
- -->
+## Stack
 
- ---
-
-<!-- About Me Section -->
-
-## About Me
-
-<!-- Coding GIF image -->
-
-🔭 I’m currently a **CS Student** based in **Montpellier** and also in **internship** at **anaba** as a **full stack** developper
-
-🌱 I’m currently learning **Rust**, **Go** & **DevOps**
-
-👯 I’m looking to _collaborate_ on **Rust** projects
-
-📫 How to reach me: **damien.mathieu.pro@gmail.com**
-
-<br />
-<!-- Contact Section -->
-
----
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 
 ## Contact
 
-<p align="center">
-<a href="https://www.linkedin.com/in/damien-mathieu-a70348241/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="my linkedin account" />
-</a>
-<a href="mailto:damien.mathieu.pro@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="my mail" />
-</a>
-</p>
-
-
-<p align="center"><b>Thank You for visiting my profile 🙏</b></p>
-<p align="center">See you space cowboy ✨ </p>
-
----
-
-
-Last Edited on: 08/02/2024
-
-
- 
+[LinkedIn](https://www.linkedin.com/in/damien-mathieu-a70348241/) · [Email](mailto:damien.mathieu.pro@gmail.com) · [dmathieu.dev](https://dmathieu.dev)
